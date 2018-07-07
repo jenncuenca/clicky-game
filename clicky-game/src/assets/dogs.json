@@ -1,0 +1,62 @@
+[
+    {
+        "breed": "boston-bulldog",
+        "image": "https://images.dog.ceo/breeds/bulldog-boston/n02096585_6367.jpg"
+    },
+    {
+        "breed": "beagle",
+        "image": "https://images.dog.ceo/breeds/beagle/n02088364_2143.jpg"
+    },
+    {
+        "breed": "husky",
+        "image": "https://images.dog.ceo/breeds/husky/n02110185_712.jpg"
+    },
+    {
+        "breed": "swiss-mountain",
+        "image": "https://images.dog.ceo/breeds/mountain-swiss/n02107574_988.jpg"
+    },
+    {
+        "breed": "pomeranian",
+        "image": "https://dog.ceo/api/img/pomeranian/n02112018_13636.jpg"
+    },
+    {
+        "breed": "french-bulldog",
+        "image": "https://images.dog.ceo/breeds/bulldog-french/n02108915_3369.jpg"
+    },
+    {
+        "breed": "keehond",
+        "image": "https://images.dog.ceo/breeds/keeshond/n02112350_9545.jpg"
+    },
+    {
+        "breed": "chihuahua",
+        "image": "https://images.dog.ceo/breeds/chihuahua/n02085620_4875.jpg"
+    },
+    {
+        "breed": "boxer",
+        "image": "https://dog.ceo/api/img/boxer/n02108089_11687.jpg"
+    },
+    {
+        "breed": "chow",
+        "image": "https://dog.ceo/api/img/chow/n02112137_12792.jpg"
+    },
+    {
+        "breed": "corgi",
+        "image": "https://images.dog.ceo/breeds/corgi-cardigan/n02113186_6058.jpg"
+    },
+    {
+        "breed": "shiba",
+        "image": "https://images.dog.ceo/breeds/shiba/shiba-8.JPG"
+    },
+    {
+        "breed": "pug",
+        "image": "https://images.dog.ceo/breeds/pug/n02110958_5621.jpg"
+    },
+    {
+        "breed": "terrier",
+        "image": "https://dog.ceo/api/img/terrier-american/n02093428_10164.jpg"
+    },
+    {
+        "breed": "malinois",
+        "image": "https://images.dog.ceo/breeds/malinois/n02105162_6492.jpg"
+    }
+]
